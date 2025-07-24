@@ -32,13 +32,16 @@ A full-stack web application to manage employee attendance, including employee r
 - MongoDB installed locally or use MongoDB Atlas
 - Git installed (for cloning and version control)
 
-### Installation
+### Installation Steps
 
-1. Clone the repository:
+1. **Clone the repository:**
+
+   Open your terminal or command prompt and run:
+
+   ```bash
+   git clone https://github.com/your-username/employee-attendance-system.git
+   cd employee-attendance-system/server
    
-     git clone 
-     cd attandance-management/attendance/server
-
 2.Install backend dependencies:
 
      npm install
