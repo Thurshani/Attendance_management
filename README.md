@@ -35,8 +35,6 @@ A full-stack web application to manage employee attendance, including employee r
 ### Installation
 
 1. Clone the repository:
-
-   ```bash
      git clone 
      cd attandance-management/attendance/server
 
