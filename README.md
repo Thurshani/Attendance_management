@@ -50,5 +50,3 @@ A full-stack web application to manage employee attendance, including employee r
 
 4.Start the backend server:  
       npm run dev
-
-
