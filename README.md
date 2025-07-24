@@ -16,7 +16,7 @@ A full-stack web application to manage employee attendance, including employee r
 
 ## Tech Stack
 
-- **Frontend:** React, Tailwind CSS (or your chosen CSS framework)
+- **Frontend:** React, Tailwind CSS 
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (local or Atlas)
 - **Authentication:** JWT (JSON Web Tokens)
@@ -35,8 +35,7 @@ A full-stack web application to manage employee attendance, including employee r
 ### Installation Steps
 
 1. **Clone the repository:**
-
-   Open your terminal or command prompt and run:
+ Open your terminal or command prompt and run:
 
    ```bash
    git clone https://github.com/your-username/employee-attendance-system.git
